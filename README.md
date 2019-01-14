@@ -1,2 +1,2 @@
-# Artificial Intelligence Assignemnts
+# Artificial Intelligence Assignments
 
